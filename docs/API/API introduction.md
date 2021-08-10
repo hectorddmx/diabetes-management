@@ -1,4 +1,4 @@
-# Introduction
+# API introduction
 To handle the backend we'll use a freely available API from [http://www.jadediabetes.com/api/](http://www.jadediabetes.com/api/)
 
 They already have iOS and Android apps but we'll just ignore them for the task at hand.
@@ -11,5 +11,7 @@ Playground page: https://app.jadediabetes.com/api/sample.html
 
 After we created the account, we can start playing around with their basic API.
 
-Endpoints we'll use
+Endpoints we'll use for the current project
 - [[GET - Login]]
+- [[API/METHODS/GET - Submit blood glucose value]]
+- [[GET - Fetch user blood glucose levels]]

@@ -4,28 +4,80 @@
     "type": "split",
     "children": [
       {
-        "id": "4b2f8a42e58d90df",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "API/GET - Login.md",
-            "mode": "source"
+        "id": "1d511d114f4555e7",
+        "type": "split",
+        "children": [
+          {
+            "id": "a3b6c4c9f54df813",
+            "type": "leaf",
+            "dimension": 31.785480706344018,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Blood glucose management app.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "4ad06043e7bd3b47"
+          },
+          {
+            "id": "86587d2e8c5ffadc",
+            "type": "split",
+            "dimension": 68.21451929365598,
+            "children": [
+              {
+                "id": "4b2f8a42e58d90df",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Blood glucose management app.md",
+                    "mode": "source"
+                  }
+                },
+                "group": "4ad06043e7bd3b47"
+              },
+              {
+                "id": "e84fb45e24145027",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Blood glucose management app.md",
+                    "mode": "preview"
+                  }
+                },
+                "group": "4ad06043e7bd3b47"
+              }
+            ],
+            "direction": "vertical"
           }
-        },
-        "group": "4ad06043e7bd3b47"
-      },
-      {
-        "id": "e84fb45e24145027",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "API/GET - Login.md",
-            "mode": "preview"
-          }
-        },
-        "group": "4ad06043e7bd3b47"
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -81,14 +133,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API/GET - Login.md",
+                "file": "Blood glucose management app.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -96,17 +148,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "4b2f8a42e58d90df",
   "lastOpenFiles": [
-    "API/GET - Login.md",
-    "API/Introduction.md",
+    "Blood glucose management app.md",
+    "User Stories/GM3 - Home page with glucose records.md",
+    "API/METHODS/GET - Submit blood glucose value.md",
+    "Pasted image 20210810040827.png",
+    "User Stories/GM2 - Login error.md",
+    "User Stories/GM1 - Login.md",
+    "GM2 - Login error.md",
     "Specification.md",
-    "API/jade-api.md",
-    "jadediabetes.com.md",
-    "API/jade.md",
-    "Untitled.md"
+    "API/API introduction.md",
+    "API/METHODS/GET - Login.md"
   ]
 }
