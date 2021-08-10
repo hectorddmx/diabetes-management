@@ -3,7 +3,7 @@
 ## Introduction
 Welcome to Distillery!
 
-For the next couple of weeks you'll build an iOS application from scratch to handle blood glucose levels.
+For the next week you'll build an iOS application from scratch to handle blood glucose levels.
 This task is to measure your current skills and your growth level.
 
 ## Features

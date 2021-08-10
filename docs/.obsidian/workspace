@@ -45,36 +45,17 @@
             "group": "4ad06043e7bd3b47"
           },
           {
-            "id": "86587d2e8c5ffadc",
-            "type": "split",
+            "id": "4b2f8a42e58d90df",
+            "type": "leaf",
             "dimension": 68.21451929365598,
-            "children": [
-              {
-                "id": "4b2f8a42e58d90df",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Blood glucose management app.md",
-                    "mode": "source"
-                  }
-                },
-                "group": "4ad06043e7bd3b47"
-              },
-              {
-                "id": "e84fb45e24145027",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Blood glucose management app.md",
-                    "mode": "source"
-                  }
-                },
-                "group": "4ad06043e7bd3b47"
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blood glucose management app.md",
+                "mode": "source"
               }
-            ],
-            "direction": "vertical"
+            },
+            "group": "4ad06043e7bd3b47"
           }
         ],
         "direction": "horizontal"
@@ -117,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232
+    "width": 408
   },
   "right": {
     "id": "60a2dcd2aea839ee",
@@ -153,14 +134,14 @@
   "active": "4b2f8a42e58d90df",
   "lastOpenFiles": [
     "Blood glucose management app.md",
-    "Pasted image 20210810040827.png",
-    "User Stories/GM4 - Add blood glucose record in a modal.md",
     "User Stories/GM3 - Home page with glucose records.md",
+    "User Stories/GM4 - Add blood glucose record in a modal.md",
     "User Stories/GM2 - Login error.md",
     "User Stories/GM1 - Login.md",
+    "API/Methods/GET - Submit blood glucose value.md",
     "API/API introduction.md",
-    "API/METHODS/GET - Fetch user blood glucose levels.md",
+    "API/METHODS/GET - Login.md",
     "API/METHODS/GET - Submit blood glucose value.md",
-    "GM2 - Login error.md"
+    "API/METHODS/GET - Fetch user blood glucose levels.md"
   ]
 }
