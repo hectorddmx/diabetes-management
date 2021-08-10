@@ -83,6 +83,7 @@ I separate those we want as required and some that are optional.
 - CI, use Github Actions
 	- https://github.com/Apple-Actions
 	- https://docs.github.com/en/actions/guides/building-and-testing-swift
+	- https://www.youtube.com/watch?v=ccrUi5QnUA0
 
 - Deployment and QA
 	- Use external testflight testing with shareable URL.
