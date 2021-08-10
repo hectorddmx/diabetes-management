@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "bcaf1d41338580e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b2f8a42e58d90df",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "API/GET - Login.md",
+            "mode": "source"
+          }
+        },
+        "group": "4ad06043e7bd3b47"
+      },
+      {
+        "id": "e84fb45e24145027",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "API/GET - Login.md",
+            "mode": "preview"
+          }
+        },
+        "group": "4ad06043e7bd3b47"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41272f4072597d98",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b8f78aee4c3c5dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b6ef819d2951563",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b2387ec4a4fa748",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232
+  },
+  "right": {
+    "id": "60a2dcd2aea839ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "e014f519941471c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d047ecedb392e15b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "API/GET - Login.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4b2f8a42e58d90df",
+  "lastOpenFiles": [
+    "API/GET - Login.md",
+    "API/Introduction.md",
+    "Specification.md",
+    "API/jade-api.md",
+    "jadediabetes.com.md",
+    "API/jade.md",
+    "Untitled.md"
+  ]
+}
