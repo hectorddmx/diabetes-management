@@ -13,9 +13,13 @@ The application will consist of the following features:
 - See blood glucose level records in a graph.
 - Create new glucose level records.
 
-## Requeriments
+## Criteria
 
-We want you to develop the app using:
+We want you to develop the app using this tools and techniques:
+I separate those we want as required and some that are optional.
+
+### Required requirements
+
 - Use Git along the way
 	- Fork this repo.
 	- Use feature branches.
@@ -29,11 +33,6 @@ We want you to develop the app using:
 	- Guide: https://qualitycoding.org/ios-tdd/
 	- Guide: https://mokacoding.com/blog/step-by-step-tdd-in-swift-part-1/
 	- Video series guide: https://www.essentialdeveloper.com/professional-ios-engineering-series.
-
-- Do UI testing and snapshot testing
-	- For screens and UI components take snapshots and compare them
-	- Use pointfreeco library: https://github.com/pointfreeco/swift-snapshot-testing
-	- Guide: https://medium.com/dev-jam/snapshot-testing-in-swift-9d52cbec075c
 
 - Use MVVM-C (Model-View-ViewModel-Coordinator (MVVM-C))
 	- For the binding use closures or combine.
@@ -72,6 +71,15 @@ We want you to develop the app using:
 - Dependencies
 	- Use SwiftPM for any dependency that's mentioned here or that are not disallowed.
 
+### Optional requirements
+- Commits
+	- Use semantic/conventional commits: https://www.conventionalcommits.org/en/v1.0.0-beta.2/#summary
+
+- Do UI testing and snapshot testing
+	- For screens and UI components take snapshots and compare them
+	- Use pointfreeco library: https://github.com/pointfreeco/swift-snapshot-testing
+	- Guide: https://medium.com/dev-jam/snapshot-testing-in-swift-9d52cbec075c
+
 - CI, use Github Actions
 	- https://github.com/Apple-Actions
 	- https://docs.github.com/en/actions/guides/building-and-testing-swift
@@ -79,6 +87,7 @@ We want you to develop the app using:
 - Deployment and QA
 	- Use external testflight testing with shareable URL.
 	- Don't push to the App Store.
+	- Use semantic versioning
 
 - Static Analysis:
 	- Use SwiftLint: https://github.com/realm/SwiftLint

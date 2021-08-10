@@ -68,7 +68,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Blood glucose management app.md",
-                    "mode": "preview"
+                    "mode": "source"
                   }
                 },
                 "group": "4ad06043e7bd3b47"
@@ -153,14 +153,14 @@
   "active": "4b2f8a42e58d90df",
   "lastOpenFiles": [
     "Blood glucose management app.md",
-    "User Stories/GM3 - Home page with glucose records.md",
-    "API/METHODS/GET - Submit blood glucose value.md",
     "Pasted image 20210810040827.png",
+    "User Stories/GM4 - Add blood glucose record in a modal.md",
+    "User Stories/GM3 - Home page with glucose records.md",
     "User Stories/GM2 - Login error.md",
     "User Stories/GM1 - Login.md",
-    "GM2 - Login error.md",
-    "Specification.md",
     "API/API introduction.md",
-    "API/METHODS/GET - Login.md"
+    "API/METHODS/GET - Fetch user blood glucose levels.md",
+    "API/METHODS/GET - Submit blood glucose value.md",
+    "GM2 - Login error.md"
   ]
 }
