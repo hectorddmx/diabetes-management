@@ -6,6 +6,8 @@ Welcome to Distillery!
 For the next week you'll build an iOS application from scratch to handle blood glucose levels.
 This task is to measure your current skills and your growth level.
 
+If you want to view/edit this docs, you can do so with Visual Studio Code.app or with [obsidian.md](https://obsidian.md/) which I'm currently using.
+
 ## Features
 
 The application will consist of the following features:

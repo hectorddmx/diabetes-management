@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408
+    "width": 201
   },
   "right": {
     "id": "60a2dcd2aea839ee",
@@ -129,19 +129,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100
   },
   "active": "4b2f8a42e58d90df",
   "lastOpenFiles": [
     "Blood glucose management app.md",
-    "User Stories/GM3 - Home page with glucose records.md",
-    "User Stories/GM4 - Add blood glucose record in a modal.md",
     "User Stories/GM2 - Login error.md",
+    "User Stories/GM3 - Home page with glucose records.md",
     "User Stories/GM1 - Login.md",
-    "API/Methods/GET - Submit blood glucose value.md",
-    "API/API introduction.md",
     "API/METHODS/GET - Login.md",
     "API/METHODS/GET - Submit blood glucose value.md",
-    "API/METHODS/GET - Fetch user blood glucose levels.md"
+    "API/METHODS/GET - Fetch user blood glucose levels.md",
+    "API/API introduction.md",
+    "User Stories/GM4 - Add blood glucose record in a modal.md",
+    "API/Methods/GET - Submit blood glucose value.md"
   ]
 }
