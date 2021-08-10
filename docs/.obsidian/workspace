@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "bcaf1d41338580e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d511d114f4555e7",
+        "type": "split",
+        "children": [
+          {
+            "id": "a3b6c4c9f54df813",
+            "type": "leaf",
+            "dimension": 31.785480706344018,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Blood glucose management app.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "4ad06043e7bd3b47"
+          },
+          {
+            "id": "86587d2e8c5ffadc",
+            "type": "split",
+            "dimension": 68.21451929365598,
+            "children": [
+              {
+                "id": "4b2f8a42e58d90df",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Blood glucose management app.md",
+                    "mode": "source"
+                  }
+                },
+                "group": "4ad06043e7bd3b47"
+              },
+              {
+                "id": "e84fb45e24145027",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Blood glucose management app.md",
+                    "mode": "preview"
+                  }
+                },
+                "group": "4ad06043e7bd3b47"
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41272f4072597d98",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b8f78aee4c3c5dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b6ef819d2951563",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b2387ec4a4fa748",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232
+  },
+  "right": {
+    "id": "60a2dcd2aea839ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "e014f519941471c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d047ecedb392e15b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Blood glucose management app.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "4b2f8a42e58d90df",
+  "lastOpenFiles": [
+    "Blood glucose management app.md",
+    "User Stories/GM3 - Home page with glucose records.md",
+    "API/METHODS/GET - Submit blood glucose value.md",
+    "Pasted image 20210810040827.png",
+    "User Stories/GM2 - Login error.md",
+    "User Stories/GM1 - Login.md",
+    "GM2 - Login error.md",
+    "Specification.md",
+    "API/API introduction.md",
+    "API/METHODS/GET - Login.md"
+  ]
+}
